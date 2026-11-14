@@ -1,0 +1,25 @@
+{
+ "status": "NEEDS VERIFICATION",
+ "note": "Compiled from secondary sources, NOT from NSE's official circular. Every date stays verified:false until the owner checks it against NSE's official holiday list and changes it to true. Unverified dates do NOT stop any job: the job runs and marks the day 'possible holiday'. Only verified dates are skipped.",
+ "sources": ["https://cleartax.in/s/nse-holidays-2026", "https://upstox.com/stocks-market/nse-holidays/"],
+ "conflicts": ["2026-01-15 (Maharashtra municipal elections) appears in one source only"],
+ "years": [2026],
+ "dates": [
+  {"date": "2026-01-15", "name": "Maharashtra municipal elections", "verified": false},
+  {"date": "2026-01-26", "name": "Republic Day", "verified": false},
+  {"date": "2026-03-03", "name": "Holi", "verified": false},
+  {"date": "2026-03-26", "name": "Shri Ram Navami", "verified": false},
+  {"date": "2026-03-31", "name": "Shri Mahavir Jayanti", "verified": false},
+  {"date": "2026-04-03", "name": "Good Friday", "verified": false},
+  {"date": "2026-04-14", "name": "Dr. Baba Saheb Ambedkar Jayanti", "verified": false},
+  {"date": "2026-05-01", "name": "Maharashtra Day", "verified": false},
+  {"date": "2026-05-28", "name": "Bakri Id", "verified": false},
+  {"date": "2026-06-26", "name": "Muharram", "verified": false},
+  {"date": "2026-09-14", "name": "Ganesh Chaturthi", "verified": false},
+  {"date": "2026-10-02", "name": "Mahatma Gandhi Jayanti", "verified": false},
+  {"date": "2026-10-20", "name": "Dussehra", "verified": false},
+  {"date": "2026-11-10", "name": "Diwali - Balipratipada", "verified": false},
+  {"date": "2026-11-24", "name": "Prakash Gurpurb Sri Guru Nanak Dev", "verified": false},
+  {"date": "2026-12-25", "name": "Christmas", "verified": false}
+ ]
+}

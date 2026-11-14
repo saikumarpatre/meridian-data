@@ -1,0 +1,19 @@
+{
+ "note": "Headlines and links only. Article text is never stored. Each item links back to the publisher. Personal, non-commercial use.",
+ "feeds": [
+  {"name": "Economic Times – Markets", "url": "https://economictimes.indiatimes.com/markets/rssfeeds/1977021501.cms", "cat": "markets"},
+  {"name": "Economic Times – Top stories", "url": "https://economictimes.indiatimes.com/rssfeedstopstories.cms", "cat": "top"},
+  {"name": "Economic Times – Economy", "url": "https://economictimes.indiatimes.com/news/economy/rssfeeds/1373380680.cms", "cat": "economy"},
+  {"name": "Business Standard – Markets", "url": "https://www.business-standard.com/rss/markets-106.rss", "cat": "markets"},
+  {"name": "Business Standard – Companies", "url": "https://www.business-standard.com/rss/companies-101.rss", "cat": "companies"},
+  {"name": "Livemint – Markets", "url": "https://www.livemint.com/rss/markets", "cat": "markets"},
+  {"name": "Livemint – Companies", "url": "https://www.livemint.com/rss/companies", "cat": "companies"},
+  {"name": "Moneycontrol – Business", "url": "https://www.moneycontrol.com/rss/business.xml", "cat": "companies"},
+  {"name": "Moneycontrol – Latest", "url": "https://www.moneycontrol.com/rss/latestnews.xml", "cat": "top"},
+  {"name": "CNBC – Markets", "url": "https://www.cnbc.com/id/20910258/device/rss/rss.html", "cat": "world"},
+  {"name": "Bloomberg – Markets", "url": "https://feeds.bloomberg.com/markets/news.rss", "cat": "world"},
+  {"name": "RBI – Press releases", "url": "https://www.rbi.org.in/pressreleases_rss.xml", "cat": "regulator"},
+  {"name": "RBI – Notifications", "url": "https://www.rbi.org.in/notifications_rss.xml", "cat": "regulator"},
+  {"name": "SEBI", "url": "https://www.sebi.gov.in/sebirss.xml", "cat": "regulator"}
+ ]
+}

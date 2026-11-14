@@ -1,0 +1,9 @@
+{
+ "tz": "Asia/Kolkata",
+ "note": "Must match the cron lines in .github/workflows/update.yml (a test checks this). GitHub runs schedules in UTC and can start them late or skip them.",
+ "jobs": {
+  "prices":   {"cron": "*/30 3-10 * * 1-5", "ist": "every 30 minutes, 08:30-16:00 IST, Monday-Friday", "graceMin": 90},
+  "research": {"cron": "17 13 * * *", "ist": "18:47 IST every day (non-trading days are skipped)", "graceMin": 90},
+  "news":     {"cron": "5 */2 * * *", "ist": "every 2 hours (05 minutes past each even UTC hour)", "graceMin": 240}
+ }
+}
