@@ -1,0 +1,153 @@
+{
+ "updated": "2026-11-14",
+ "indices": [
+  "^NSEI",
+  "^BSESN",
+  "^NSEBANK",
+  "^CRSLDX",
+  "INR=X",
+  "^GSPC",
+  "^IXIC",
+  "^FTSE",
+  "^N225",
+  "GC=F",
+  "CL=F"
+ ],
+ "hg": [
+  "SWARAJENG",
+  "FRONTSP",
+  "MPSLTD",
+  "JYOTIRES",
+  "ACCELYA",
+  "INDRAMEDCO",
+  "GULFOILLUB",
+  "BANCOINDIA",
+  "SHARDACROP",
+  "NITTAGELA",
+  "MAYURUNIQ",
+  "INDOTECH",
+  "DLINKINDIA",
+  "TRANSRAILL",
+  "SANDUMA",
+  "KPEL",
+  "HAWKINCOOK",
+  "MONARCH",
+  "WEBELSOLAR",
+  "ACGL"
+ ],
+ "markets": [
+  {
+   "name": "ITC",
+   "nse": "ITC"
+  },
+  {
+   "name": "National Aluminium",
+   "nse": "NATIONALUM"
+  },
+  {
+   "name": "NBCC",
+   "nse": "NBCC"
+  },
+  {
+   "name": "Castrol India",
+   "nse": "CASTROLIND"
+  },
+  {
+   "name": "Engineers India",
+   "nse": "ENGINERSIN"
+  },
+  {
+   "name": "Godawari Power",
+   "nse": "GPIL"
+  },
+  {
+   "name": "Central Mine Planning (CMPDI)",
+   "nse": null
+  },
+  {
+   "name": "JSW Dulux",
+   "nse": null
+  },
+  {
+   "name": "Sri Lotus",
+   "nse": null
+  },
+  {
+   "name": "Rites",
+   "nse": "RITES"
+  },
+  {
+   "name": "Bajaj Auto",
+   "nse": "BAJAJ-AUTO"
+  },
+  {
+   "name": "TVS Motor Co.",
+   "nse": "TVSMOTOR"
+  },
+  {
+   "name": "Solar Industries",
+   "nse": "SOLARINDS"
+  },
+  {
+   "name": "BSE",
+   "nse": "BSE"
+  },
+  {
+   "name": "Billionbrains",
+   "nse": null
+  },
+  {
+   "name": "Hitachi Energy",
+   "nse": "POWERINDIA"
+  },
+  {
+   "name": "Motherson Wiring",
+   "nse": "MSUMI"
+  },
+  {
+   "name": "TRIL",
+   "nse": "TARIL"
+  },
+  {
+   "name": "Bharti Airtel",
+   "nse": "BHARTIARTL"
+  },
+  {
+   "name": "Larsen & Toubro",
+   "nse": "LT"
+  },
+  {
+   "name": "Titan Company",
+   "nse": "TITAN"
+  },
+  {
+   "name": "Adani Ports",
+   "nse": "ADANIPORTS"
+  },
+  {
+   "name": "Mahindra & Mahindra",
+   "nse": "M&M"
+  },
+  {
+   "name": "Maruti Suzuki",
+   "nse": "MARUTI"
+  },
+  {
+   "name": "Bharat Electronics",
+   "nse": "BEL"
+  },
+  {
+   "name": "Eicher Motors",
+   "nse": "EICHERMOT"
+  },
+  {
+   "name": "Trent",
+   "nse": "TRENT"
+  }
+ ],
+ "consolidated": [
+  "BANCOINDIA",
+  "SANDUMA",
+  "SHARDACROP"
+ ]
+}
