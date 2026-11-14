@@ -12,7 +12,7 @@ concurrency:
 jobs:
   update:
     runs-on: ubuntu-latest
-    timeout-minutes: 15
+    timeout-minutes: 30
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4
@@ -24,6 +24,11 @@ jobs:
         run: |
           mkdir -p data/charts
           node scripts/update.mjs
+      - name: Daily research (evening run and manual runs)
+        if: github.event_name == 'workflow_dispatch' || github.event.schedule == '17 13 * * *'
+        env:
+          UPSTOX_TOKEN: ${{ secrets.UPSTOX_TOKEN }}
+        run: node scripts/research.mjs
       - name: Save changes
         run: |
           git config user.name "meridian-data-bot"
