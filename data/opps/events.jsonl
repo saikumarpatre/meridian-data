@@ -1,3 +1,6 @@
 {"at":1794844299469,"id":"ETERNAL-20261116","sym":"ETERNAL","date":"2026-11-16","from":null,"to":"NEW","reason":"Passed every rule on 2026-11-16: entry ₹361.47–371.1, stop ₹301.75, target ₹509.8","price":371.1}
 {"at":1794925594669,"id":"ETERNAL-20261116","sym":"ETERNAL","date":"2026-11-17","from":"NEW","to":"WATCHING","reason":"Entry zone ₹361.47–371.1 not reached yet","price":375.05}
 {"at":1794925594669,"id":"WELSPUNLIV-20261117","sym":"WELSPUNLIV","date":"2026-11-17","from":null,"to":"NEW","reason":"Passed every rule on 2026-11-17: entry ₹252.9–265.62, stop ₹204.75, target ₹387.36","price":265.62}
+{"at":1795011801559,"id":"ETERNAL-20261116","sym":"ETERNAL","date":"2026-11-18","from":"WATCHING","to":"ENTRY TRIGGERED","reason":"Closed at ₹366, inside the entry zone; fill at the next open","price":366}
+{"at":1795011801559,"id":"WELSPUNLIV-20261117","sym":"WELSPUNLIV","date":"2026-11-18","from":"NEW","to":"ENTRY TRIGGERED","reason":"Closed at ₹255.97, inside the entry zone; fill at the next open","price":255.97}
+{"at":1795011801559,"id":"GAIL-20261118","sym":"GAIL","date":"2026-11-18","from":null,"to":"NEW","reason":"Passed every rule on 2026-11-18: entry ₹186.02–190, stop ₹160.7, target ₹248.6","price":190}
