@@ -4,3 +4,10 @@
 {"at":1795011801559,"id":"ETERNAL-20261116","sym":"ETERNAL","date":"2026-11-18","from":"WATCHING","to":"ENTRY TRIGGERED","reason":"Closed at ₹366, inside the entry zone; fill at the next open","price":366}
 {"at":1795011801559,"id":"WELSPUNLIV-20261117","sym":"WELSPUNLIV","date":"2026-11-18","from":"NEW","to":"ENTRY TRIGGERED","reason":"Closed at ₹255.97, inside the entry zone; fill at the next open","price":255.97}
 {"at":1795011801559,"id":"GAIL-20261118","sym":"GAIL","date":"2026-11-18","from":null,"to":"NEW","reason":"Passed every rule on 2026-11-18: entry ₹186.02–190, stop ₹160.7, target ₹248.6","price":190}
+{"at":1795098343658,"id":"ETERNAL-20261116","sym":"ETERNAL","date":"2026-11-19","from":"ENTRY TRIGGERED","to":"WITHDRAWN","reason":"Opened at ₹360.45, outside the entry zone ₹361.47–371.1; not filled","price":360.45}
+{"at":1795098343658,"id":"WELSPUNLIV-20261117","sym":"WELSPUNLIV","date":"2026-11-19","from":"ENTRY TRIGGERED","to":"ACTIVE","reason":"Filled at the open ₹255.5 (reward/risk 2.6)","price":255.5}
+{"at":1795098343658,"id":"GAIL-20261118","sym":"GAIL","date":"2026-11-19","from":"NEW","to":"WATCHING","reason":"Entry zone ₹186.02–190 not reached yet","price":192.1}
+{"at":1795098343658,"id":"TVSMOTOR-20261119","sym":"TVSMOTOR","date":"2026-11-19","from":null,"to":"NEW","reason":"Passed every rule on 2026-11-19: entry ₹4478.19–4601.4, stop ₹3875.1, target ₹6054","price":4601.4}
+{"at":1795098343658,"id":"MARICO-20261119","sym":"MARICO","date":"2026-11-19","from":null,"to":"NEW","reason":"Passed every rule on 2026-11-19: entry ₹899.12–918.8, stop ₹756.85, target ₹1242.7","price":918.8}
+{"at":1795098343658,"id":"FLUOROCHEM-20261119","sym":"FLUOROCHEM","date":"2026-11-19","from":null,"to":"NEW","reason":"Passed every rule on 2026-11-19: entry ₹4805.24–4978.6, stop ₹4086.7, target ₹6762.4","price":4978.6}
+{"at":1795098343658,"id":"DLF-20261119","sym":"DLF","date":"2026-11-19","from":null,"to":"NEW","reason":"Passed every rule on 2026-11-19: entry ₹750.18–768, stop ₹647.6, target ₹1008.8","price":768}
