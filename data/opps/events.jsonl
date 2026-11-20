@@ -11,3 +11,12 @@
 {"at":1795098343658,"id":"MARICO-20261119","sym":"MARICO","date":"2026-11-19","from":null,"to":"NEW","reason":"Passed every rule on 2026-11-19: entry ₹899.12–918.8, stop ₹756.85, target ₹1242.7","price":918.8}
 {"at":1795098343658,"id":"FLUOROCHEM-20261119","sym":"FLUOROCHEM","date":"2026-11-19","from":null,"to":"NEW","reason":"Passed every rule on 2026-11-19: entry ₹4805.24–4978.6, stop ₹4086.7, target ₹6762.4","price":4978.6}
 {"at":1795098343658,"id":"DLF-20261119","sym":"DLF","date":"2026-11-19","from":null,"to":"NEW","reason":"Passed every rule on 2026-11-19: entry ₹750.18–768, stop ₹647.6, target ₹1008.8","price":768}
+{"at":1795184662244,"id":"TVSMOTOR-20261119","sym":"TVSMOTOR","date":"2026-11-20","from":"NEW","to":"ENTRY TRIGGERED","reason":"Closed at ₹4590, inside the entry zone; fill at the next open","price":4590}
+{"at":1795184662244,"id":"MARICO-20261119","sym":"MARICO","date":"2026-11-20","from":"NEW","to":"ENTRY TRIGGERED","reason":"Closed at ₹917, inside the entry zone; fill at the next open","price":917}
+{"at":1795184662244,"id":"FLUOROCHEM-20261119","sym":"FLUOROCHEM","date":"2026-11-20","from":"NEW","to":"ENTRY TRIGGERED","reason":"Closed at ₹4932.7, inside the entry zone; fill at the next open","price":4932.7}
+{"at":1795184662244,"id":"DLF-20261119","sym":"DLF","date":"2026-11-20","from":"NEW","to":"WATCHING","reason":"Entry zone ₹750.18–768 not reached yet","price":785}
+{"at":1795184662244,"id":"INDHOTEL-20261120","sym":"INDHOTEL","date":"2026-11-20","from":null,"to":"NEW","reason":"Passed every rule on 2026-11-20: entry ₹889.41–912, stop ₹764.45, target ₹1207.1","price":912}
+{"at":1795184662244,"id":"FEDERALBNK-20261120","sym":"FEDERALBNK","date":"2026-11-20","from":null,"to":"NEW","reason":"Passed every rule on 2026-11-20: entry ₹364.44–373.5, stop ₹329.5, target ₹461.5","price":373.5}
+{"at":1795184662244,"id":"PHOENIXLTD-20261120","sym":"PHOENIXLTD","date":"2026-11-20","from":null,"to":"NEW","reason":"Passed every rule on 2026-11-20: entry ₹2216.23–2285.3, stop ₹1842.6, target ₹3170.7","price":2285.3}
+{"at":1795184662244,"id":"BHARTIARTL-20261120","sym":"BHARTIARTL","date":"2026-11-20","from":null,"to":"NEW","reason":"Passed every rule on 2026-11-20: entry ₹2118.7–2161.7, stop ₹1860.7, target ₹2763.7","price":2161.7}
+{"at":1795184662244,"id":"APOLLOHOSP-20261120","sym":"APOLLOHOSP","date":"2026-11-20","from":null,"to":"NEW","reason":"Passed every rule on 2026-11-20: entry ₹8979.84–9200, stop ₹7550, target ₹12500","price":9200}
