@@ -20,3 +20,12 @@
 {"at":1795184662244,"id":"PHOENIXLTD-20261120","sym":"PHOENIXLTD","date":"2026-11-20","from":null,"to":"NEW","reason":"Passed every rule on 2026-11-20: entry ₹2216.23–2285.3, stop ₹1842.6, target ₹3170.7","price":2285.3}
 {"at":1795184662244,"id":"BHARTIARTL-20261120","sym":"BHARTIARTL","date":"2026-11-20","from":null,"to":"NEW","reason":"Passed every rule on 2026-11-20: entry ₹2118.7–2161.7, stop ₹1860.7, target ₹2763.7","price":2161.7}
 {"at":1795184662244,"id":"APOLLOHOSP-20261120","sym":"APOLLOHOSP","date":"2026-11-20","from":null,"to":"NEW","reason":"Passed every rule on 2026-11-20: entry ₹8979.84–9200, stop ₹7550, target ₹12500","price":9200}
+{"at":1795444261445,"id":"TVSMOTOR-20261119","sym":"TVSMOTOR","date":"2026-11-23","from":"ENTRY TRIGGERED","to":"WITHDRAWN","reason":"Opened at ₹4624.9, outside the entry zone ₹4478.19–4601.4; not filled","price":4624.9}
+{"at":1795444261445,"id":"MARICO-20261119","sym":"MARICO","date":"2026-11-23","from":"ENTRY TRIGGERED","to":"WITHDRAWN","reason":"Opened at ₹920.15, outside the entry zone ₹899.12–918.8; not filled","price":920.15}
+{"at":1795444261445,"id":"FLUOROCHEM-20261119","sym":"FLUOROCHEM","date":"2026-11-23","from":"ENTRY TRIGGERED","to":"WITHDRAWN","reason":"Opened at ₹4990, outside the entry zone ₹4805.24–4978.6; not filled","price":4990}
+{"at":1795444261445,"id":"INDHOTEL-20261120","sym":"INDHOTEL","date":"2026-11-23","from":"NEW","to":"ENTRY TRIGGERED","reason":"Closed at ₹906, inside the entry zone; fill at the next open","price":906}
+{"at":1795444261445,"id":"FEDERALBNK-20261120","sym":"FEDERALBNK","date":"2026-11-23","from":"NEW","to":"WATCHING","reason":"Entry zone ₹364.44–373.5 not reached yet","price":359.8}
+{"at":1795444261445,"id":"PHOENIXLTD-20261120","sym":"PHOENIXLTD","date":"2026-11-23","from":"NEW","to":"ENTRY TRIGGERED","reason":"Closed at ₹2276.2, inside the entry zone; fill at the next open","price":2276.2}
+{"at":1795444261445,"id":"BHARTIARTL-20261120","sym":"BHARTIARTL","date":"2026-11-23","from":"NEW","to":"ENTRY TRIGGERED","reason":"Closed at ₹2128.5, inside the entry zone; fill at the next open","price":2128.5}
+{"at":1795444261445,"id":"APOLLOHOSP-20261120","sym":"APOLLOHOSP","date":"2026-11-23","from":"NEW","to":"WATCHING","reason":"Entry zone ₹8979.84–9200 not reached yet","price":9257}
+{"at":1795444261445,"id":"MARICO-20261123","sym":"MARICO","date":"2026-11-23","from":null,"to":"NEW","reason":"Passed every rule on 2026-11-23: entry ₹900.34–919.5, stop ₹758, target ₹1242.5","price":919.5}
