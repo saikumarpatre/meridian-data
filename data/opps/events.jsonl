@@ -29,3 +29,12 @@
 {"at":1795444261445,"id":"BHARTIARTL-20261120","sym":"BHARTIARTL","date":"2026-11-23","from":"NEW","to":"ENTRY TRIGGERED","reason":"Closed at ₹2128.5, inside the entry zone; fill at the next open","price":2128.5}
 {"at":1795444261445,"id":"APOLLOHOSP-20261120","sym":"APOLLOHOSP","date":"2026-11-23","from":"NEW","to":"WATCHING","reason":"Entry zone ₹8979.84–9200 not reached yet","price":9257}
 {"at":1795444261445,"id":"MARICO-20261123","sym":"MARICO","date":"2026-11-23","from":null,"to":"NEW","reason":"Passed every rule on 2026-11-23: entry ₹900.34–919.5, stop ₹758, target ₹1242.5","price":919.5}
+{"at":1795616964107,"id":"GAIL-20261118","sym":"GAIL","date":"2026-11-25","from":"WATCHING","to":"ENTRY TRIGGERED","reason":"Closed at ₹187.5, inside the entry zone; fill at the next open","price":187.5}
+{"at":1795616964107,"id":"INDHOTEL-20261120","sym":"INDHOTEL","date":"2026-11-25","from":"ENTRY TRIGGERED","to":"ACTIVE","reason":"Filled at the open ₹911.6 (reward/risk 2.01)","price":911.6}
+{"at":1795616964107,"id":"PHOENIXLTD-20261120","sym":"PHOENIXLTD","date":"2026-11-25","from":"ENTRY TRIGGERED","to":"WITHDRAWN","reason":"Opened at ₹2300, outside the entry zone ₹2216.23–2285.3; not filled","price":2300}
+{"at":1795616964107,"id":"BHARTIARTL-20261120","sym":"BHARTIARTL","date":"2026-11-25","from":"ENTRY TRIGGERED","to":"ACTIVE","reason":"Filled at the open ₹2154.7 (reward/risk 2.07)","price":2154.7}
+{"at":1795616964107,"id":"MARICO-20261123","sym":"MARICO","date":"2026-11-25","from":"NEW","to":"WATCHING","reason":"Entry zone ₹900.34–919.5 not reached yet","price":935.2}
+{"at":1795616964107,"id":"ICICIBANK-20261125","sym":"ICICIBANK","date":"2026-11-25","from":null,"to":"NEW","reason":"Passed every rule on 2026-11-25: entry ₹1604.68–1640, stop ₹1361.4, target ₹2197.2","price":1640}
+{"at":1795616964107,"id":"AUROPHARMA-20261125","sym":"AUROPHARMA","date":"2026-11-25","from":null,"to":"NEW","reason":"Passed every rule on 2026-11-25: entry ₹1801.47–1843, stop ₹1597.2, target ₹2334.6","price":1843}
+{"at":1795616964107,"id":"TVSMOTOR-20261125","sym":"TVSMOTOR","date":"2026-11-25","from":null,"to":"NEW","reason":"Passed every rule on 2026-11-25: entry ₹4491.26–4610, stop ₹3987.1, target ₹5855.8","price":4610}
+{"at":1795616964107,"id":"GLENMARK-20261125","sym":"GLENMARK","date":"2026-11-25","from":null,"to":"NEW","reason":"Passed every rule on 2026-11-25: entry ₹2643.04–2719, stop ₹2214.6, target ₹3727.8","price":2719}
