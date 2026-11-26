@@ -38,3 +38,10 @@
 {"at":1795616964107,"id":"AUROPHARMA-20261125","sym":"AUROPHARMA","date":"2026-11-25","from":null,"to":"NEW","reason":"Passed every rule on 2026-11-25: entry ₹1801.47–1843, stop ₹1597.2, target ₹2334.6","price":1843}
 {"at":1795616964107,"id":"TVSMOTOR-20261125","sym":"TVSMOTOR","date":"2026-11-25","from":null,"to":"NEW","reason":"Passed every rule on 2026-11-25: entry ₹4491.26–4610, stop ₹3987.1, target ₹5855.8","price":4610}
 {"at":1795616964107,"id":"GLENMARK-20261125","sym":"GLENMARK","date":"2026-11-25","from":null,"to":"NEW","reason":"Passed every rule on 2026-11-25: entry ₹2643.04–2719, stop ₹2214.6, target ₹3727.8","price":2719}
+{"at":1795703248059,"id":"GAIL-20261118","sym":"GAIL","date":"2026-11-26","from":"ENTRY TRIGGERED","to":"ACTIVE","reason":"Filled at the open ₹188.44 (reward/risk 2.17)","price":188.44}
+{"at":1795703248059,"id":"ICICIBANK-20261125","sym":"ICICIBANK","date":"2026-11-26","from":"NEW","to":"ENTRY TRIGGERED","reason":"Closed at ₹1611, inside the entry zone; fill at the next open","price":1611}
+{"at":1795703248059,"id":"AUROPHARMA-20261125","sym":"AUROPHARMA","date":"2026-11-26","from":"NEW","to":"ENTRY TRIGGERED","reason":"Closed at ₹1811, inside the entry zone; fill at the next open","price":1811}
+{"at":1795703248059,"id":"TVSMOTOR-20261125","sym":"TVSMOTOR","date":"2026-11-26","from":"NEW","to":"ENTRY TRIGGERED","reason":"Closed at ₹4550.1, inside the entry zone; fill at the next open","price":4550.1}
+{"at":1795703248059,"id":"GLENMARK-20261125","sym":"GLENMARK","date":"2026-11-26","from":"NEW","to":"WATCHING","reason":"Entry zone ₹2643.04–2719 not reached yet","price":2740.2}
+{"at":1795703248059,"id":"NAVINFLUOR-20261126","sym":"NAVINFLUOR","date":"2026-11-26","from":null,"to":"NEW","reason":"Passed every rule on 2026-11-26: entry ₹9947.58–10270, stop ₹8222, target ₹14366","price":10270}
+{"at":1795703248059,"id":"LAURUSLABS-20261126","sym":"LAURUSLABS","date":"2026-11-26","from":null,"to":"NEW","reason":"Passed every rule on 2026-11-26: entry ₹2424.33–2505, stop ₹2131.7, target ₹3251.6","price":2505}
