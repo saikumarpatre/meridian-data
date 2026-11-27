@@ -45,3 +45,10 @@
 {"at":1795703248059,"id":"GLENMARK-20261125","sym":"GLENMARK","date":"2026-11-26","from":"NEW","to":"WATCHING","reason":"Entry zone ₹2643.04–2719 not reached yet","price":2740.2}
 {"at":1795703248059,"id":"NAVINFLUOR-20261126","sym":"NAVINFLUOR","date":"2026-11-26","from":null,"to":"NEW","reason":"Passed every rule on 2026-11-26: entry ₹9947.58–10270, stop ₹8222, target ₹14366","price":10270}
 {"at":1795703248059,"id":"LAURUSLABS-20261126","sym":"LAURUSLABS","date":"2026-11-26","from":null,"to":"NEW","reason":"Passed every rule on 2026-11-26: entry ₹2424.33–2505, stop ₹2131.7, target ₹3251.6","price":2505}
+{"at":1795789549869,"id":"APOLLOHOSP-20261120","sym":"APOLLOHOSP","date":"2026-11-27","from":"WATCHING","to":"ENTRY TRIGGERED","reason":"Closed at ₹9128, inside the entry zone; fill at the next open","price":9128}
+{"at":1795789549869,"id":"ICICIBANK-20261125","sym":"ICICIBANK","date":"2026-11-27","from":"ENTRY TRIGGERED","to":"WITHDRAWN","reason":"Opened at ₹1604, outside the entry zone ₹1604.68–1640; not filled","price":1604}
+{"at":1795789549869,"id":"AUROPHARMA-20261125","sym":"AUROPHARMA","date":"2026-11-27","from":"ENTRY TRIGGERED","to":"ACTIVE","reason":"Filled at the open ₹1811 (reward/risk 2.45)","price":1811}
+{"at":1795789549869,"id":"TVSMOTOR-20261125","sym":"TVSMOTOR","date":"2026-11-27","from":"ENTRY TRIGGERED","to":"ACTIVE","reason":"Filled at the open ₹4551.5 (reward/risk 2.31)","price":4551.5}
+{"at":1795789549869,"id":"NAVINFLUOR-20261126","sym":"NAVINFLUOR","date":"2026-11-27","from":"NEW","to":"WATCHING","reason":"Entry zone ₹9947.58–10270 not reached yet","price":10456.5}
+{"at":1795789549869,"id":"LAURUSLABS-20261126","sym":"LAURUSLABS","date":"2026-11-27","from":"NEW","to":"ENTRY TRIGGERED","reason":"Closed at ₹2504.4, inside the entry zone; fill at the next open","price":2504.4}
+{"at":1795789549869,"id":"ANTHEM-20261127","sym":"ANTHEM","date":"2026-11-27","from":null,"to":"NEW","reason":"Passed every rule on 2026-11-27: entry ₹957.5–984.15, stop ₹819.1, target ₹1314.25","price":984.15}
